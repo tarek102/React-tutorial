@@ -6,15 +6,12 @@ In this project I have built a to-do-list where you can add tasks and remove tas
 
 ## Built With
 
-- HTML
-- CSS
-- Javascript
 - React
 
 
 ## Getting Started
 
-To successfully utilize this project first of all you need to clone or download the repository. Next, open the index.html file to check the website’s main page. If you want to add or edit the files you can do that by simply opening the file folder in VS code.
+To successfully utilize this project first of all you need to clone or download the repository. All the functions will be in component file, you can open each component and edit from it.
 
 
 ## prerequisites:
@@ -28,7 +25,7 @@ To successfully utilize this project first of all you need to clone or download 
 
 - copy this link
 
-https://github.com/tarek102/Math-magicians.git
+https://github.com/tarek102/react-to-do.git
 
 - Choose the directory that you want to clone the repository.
 - Open the terminal in this directory and type the following command
